@@ -35,7 +35,7 @@ def get_var (params: MachineParams) (T t i s: Nat) : Nat :=
 
 ## 📂 Repository Structure
 
-* `Cook_Levine_Lean4.lean`: The core formalization of the reduction and soundness proofs.
+* `Cook_Levin_Lean4.lean`: The core formalization of the reduction and soundness proofs.
 * `Mathlib/`: Necessary dependencies (Lean 4 toolchain v4.28.0).
 
 ## 🛠️ Usage & Verification
